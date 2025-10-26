@@ -19,4 +19,4 @@ C++, Go, Git, Postman, Linux Mint, Wine, Lutris
 
 ## Komunitas & Eksperimen
 - Eksperimen NAS dan jaringan rumah
-- Aktif di komunitas Linux Jogja dan open source Indonesia
+- Eksperimen membuat API untuk sistem pemesanan restoran
