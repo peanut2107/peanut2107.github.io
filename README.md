@@ -1,4 +1,4 @@
-# 👋 Halo, saya Rais!
+# 👋 Halo, saya Rais Shidqi!
 Pelajar kelas XI IPA dari Prambanan, Yogyakarta. Aktif belajar backend development dan dokumentasi teknis.
 
 ## Proyek Unggulan
